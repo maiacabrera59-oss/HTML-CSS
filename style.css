@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: #e8f5e9;
     font-family: Arial, sans-serif;
@@ -28,4 +29,28 @@ nav a {
     color: white;
     text-decoration: none;
     font-weight: bold;
+=======
+.contenido{
+    padding: 20px;
+    margin: 10px;
+}
+.tarjeta{
+    background-color: #fff;
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 10px;
+    border-left:6px solid #2e7d32 ;
+}
+img{
+    width: 200px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+h2{
+    color: #2e7d32;
+    margin-bottom: 10px;
+}
+h3{
+    color: #388e3c;
+>>>>>>> origin/rama-jere
 }
